@@ -7,7 +7,9 @@ import java.util.Random;
 public abstract class Binop extends Node {
 
     // add all code BELOW here
-
+    public void traverse (Collector c) {
+        
+    }
 
 
 

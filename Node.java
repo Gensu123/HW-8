@@ -7,6 +7,8 @@ import java.util.Random;
  */
 public abstract class Node  {
 
+    
+
     // add all code BELOW here
 
 
@@ -63,8 +65,5 @@ public abstract class Node  {
         }
         return  null;
     }
-    public  void traverse(GPTree gpTree) {
-    }
-
 
 }

@@ -8,7 +8,9 @@ import java.util.Random;
 public class Const extends Node {
 
     // add all code BELOW here
-
+    public void traverse(Collector c ) {
+        
+    }
 
 
 
